@@ -1,2 +1,3 @@
 # Mini-Game-Pokemon-RPG
-A mini-game of the iconic television/anime series "Pokémon", developed in Python 3 made to be played through the terminal
+In this simple game, the player is given the possibility to explore the world of pokemons where he can capture wild pokemons and fight with his enemies. Show bravery to defeat all your enemies and conquer the strongest pokemons.
+Future updates will be added to this game
